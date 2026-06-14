@@ -1,0 +1,18 @@
+# Database
+*.db
+*.sqlite
+
+# Uploads (fichiers utilisateurs)
+uploads/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
